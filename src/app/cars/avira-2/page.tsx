@@ -1,0 +1,10 @@
+import type { Metadata } from 'next';
+import { PhotoImage as Image } from '@/components/photo-viewer';
+import { PageIntro } from '@/components/page-intro';
+import { Action } from '@/components/ui';
+import { Motion } from '@/components/motion';
+import { assets } from '@/data/site';
+export const metadata: Metadata = { title: 'Avira 2.0' };
+export default function Avira() {
+  return <main id="main"><Motion><PageIntro title="Avira 2.0" label="SUPRA SAE India / 2025" description="Team Maverick’s All India Rank 1 combustion vehicle challenger. The result of engineering disciplines working as one." /><div className="page-content"><div className="wide-photo"><Image src={assets.car} alt="Avira 2.0 at SUPRA SAE India" fill preload sizes="100vw" /></div><div className="editorial-split"><h2>DESIGN DECISIONS.<br /><em>TRACK RESULTS.</em></h2><div><p>A custom-tuned KTM 390cc engine, a spaceframe chassis, and custom data-acquisition electronics are documented on the team’s official vehicle page.</p><p>The car’s 2025 record includes first places overall in the CV category, in acceleration, and in skidpad.</p><Action href="/achievements">See the competition record</Action></div></div><div className="info-grid"><article className="info-block"><span className="eyebrow">01 / POWERTRAIN</span><h3>KTM 390cc</h3><p>Custom-tuned engine with optimised mapping, as described in the team’s published engineering overview.</p></article><article className="info-block"><span className="eyebrow">02 / CHASSIS</span><h3>Spaceframe</h3><p>Structural design focused on torsional rigidity and driver ergonomics.</p></article><article className="info-block"><span className="eyebrow">03 / ELECTRONICS</span><h3>Custom DAQ</h3><p>Data acquisition with custom PCBs and a low-voltage architecture.</p></article></div><p className="source-note">Only published specifications are shown. Mass, power output, acceleration times, and detailed dimensions have not been verified.</p><div className="callout"><h2>MEET THE SYSTEMS.</h2><Action href="/departments">Explore engineering</Action></div></div></Motion></main>;
+}

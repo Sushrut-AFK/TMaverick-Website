@@ -1,0 +1,132 @@
+{
+  "assets": [
+    {
+      "file": "/images/logo.png",
+      "source": "https://www.tmaverick.in/Logos/TM_logo_white.png",
+      "verified": "2026-11-14",
+      "rights": "Publicly served team asset; confirm publication permission before launch"
+    },
+    {
+      "file": "/images/avira-2.png",
+      "source": "https://www.tmaverick.in/Misc_Photos/DSC_0911.png",
+      "verified": "2026-11-14",
+      "rights": "Publicly served team asset; confirm publication permission before launch"
+    },
+    {
+      "file": "/images/team.jpg",
+      "source": "https://www.tmaverick.in/Misc_Photos/Team_pic.jpeg",
+      "verified": "2026-11-14",
+      "rights": "Publicly served team asset; confirm publication permission before launch"
+    },
+    {
+      "file": "/images/trophies.jpg",
+      "source": "https://www.tmaverick.in/Misc_Photos/Trophies.jpeg",
+      "verified": "2026-11-14",
+      "rights": "Publicly served team asset; confirm publication permission before launch"
+    },
+    {
+      "file": "/images/avira-2024.png",
+      "source": "https://www.tmaverick.in/Misc_Photos/Avira.png",
+      "verified": "2026-11-14",
+      "rights": "Publicly served team asset; confirm publication permission before launch"
+    },
+    {
+      "file": "/images/supra-2024.jpg",
+      "source": "https://www.tmaverick.in/Misc_Photos/Supra_24.jpeg",
+      "verified": "2026-11-14",
+      "rights": "Publicly served team asset; confirm publication permission before launch"
+    },
+    {
+      "file": "/images/track.png",
+      "source": "https://www.tmaverick.in/Avira_Gallery/P4.png",
+      "verified": "2026-11-14",
+      "rights": "Publicly served team asset; confirm publication permission before launch"
+    },
+    {
+      "file": "/images/reveal.png",
+      "source": "https://www.tmaverick.in/Avira_Gallery/P1.png",
+      "verified": "2026-11-14",
+      "rights": "Publicly served team asset; confirm publication permission before launch"
+    },
+    {
+      "file": "/images/car-transparent.png",
+      "source": "https://www.tmaverick.in/Misc_Photos/car-transparent.png",
+      "verified": "2026-11-14",
+      "rights": "Publicly served team asset; confirm publication permission before launch"
+    },
+    {
+      "file": "/images/sarthak.png",
+      "source": "https://www.tmaverick.in/Alumni_Photos/Sarthak_Shukla.png",
+      "verified": "2026-11-14",
+      "rights": "Publicly served team asset; confirm publication permission before launch"
+    },
+    {
+      "file": "/images/vaid.png",
+      "source": "https://www.tmaverick.in/Alumni_Photos/Vaid_Kulkarni.png",
+      "verified": "2026-11-14",
+      "rights": "Publicly served team asset; confirm publication permission before launch"
+    },
+    {
+      "file": "/images/sponsor-mathworks.png",
+      "source": "https://www.tmaverick.in/Logos/MATLAB-logo.png",
+      "verified": "2026-11-14",
+      "rights": "Publicly served team asset; confirm publication permission before launch"
+    },
+    {
+      "file": "/images/sponsor-ansys.png",
+      "source": "https://www.tmaverick.in/Logos/download.png",
+      "verified": "2026-11-14",
+      "rights": "Publicly served team asset; confirm publication permission before launch"
+    },
+    {
+      "file": "/images/sponsor-flowcode.png",
+      "source": "https://www.tmaverick.in/Logos/logo1.png",
+      "verified": "2026-11-14",
+      "rights": "Publicly served team asset; confirm publication permission before launch"
+    },
+    {
+      "file": "/images/sponsor-solidworks.png",
+      "source": "https://www.tmaverick.in/Logos/SolidWorks-Logo.png",
+      "verified": "2026-11-14",
+      "rights": "Publicly served team asset; confirm publication permission before launch"
+    },
+    {
+      "file": "/images/sponsor-nemade.jpg",
+      "source": "https://www.tmaverick.in/Logos/nemade.jpg",
+      "verified": "2026-11-14",
+      "rights": "Publicly served team asset; confirm publication permission before launch"
+    },
+    {
+      "file": "/images/sponsor-machinist.png",
+      "source": "https://www.tmaverick.in/Logos/machinist.png",
+      "verified": "2026-11-14",
+      "rights": "Publicly served team asset; confirm publication permission before launch"
+    },
+    {
+      "file": "/images/sponsor-kakade.jpg",
+      "source": "https://www.tmaverick.in/Logos/kakade_laser.jpg",
+      "verified": "2026-11-14",
+      "rights": "Publicly served team asset; confirm publication permission before launch"
+    },
+    {
+      "file": "/images/sponsor-lasertech.png",
+      "source": "https://www.tmaverick.in/Logos/Screenshot_2025-07-10_203508-removebg-preview.png",
+      "verified": "2026-11-14",
+      "rights": "Publicly served team asset; confirm publication permission before launch"
+    },
+    {
+      "file": "/images/logo-trimmed.png",
+      "source": "https://www.tmaverick.in/Logos/TM_logo_white.png",
+      "transformation": "Transparent padding trimmed, resized to 300px wide",
+      "verified": "2026-11-14"
+    },
+    {
+      "file": "/models/formula-student/demo.glb",
+      "source": "https://github.com/simscape/Formula-Student-Vehicle-Simscape/tree/6bcec3828e49102f21841b3239bfaf3632dfec8d",
+      "verified": "2026-11-14",
+      "rights": "BSD licence retained at /models/formula-student/LICENSE.txt",
+      "purpose": "User-authorized temporary Formula Student demo; NOT Avira 2.0",
+      "derivation": "35 nodes from CAD parts, source wheel meshes, and published suspension hardpoints; see SOURCE.md"
+    }
+  ]
+}
